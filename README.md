@@ -1,2 +1,2 @@
 # github
-About github
+About github exercises.
